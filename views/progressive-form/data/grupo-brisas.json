@@ -1,0 +1,587 @@
+{
+    "company_name": "Distribuidora Brisa",
+    "company_type": 2,
+    "company_type_id": 2,
+    "company_type_label": "Estilo Integer",
+    "company_website": "https://example.com",
+    "company_description": "Comercio dedicado a la distribución y venta de bebida.",
+    "company_address": {
+        "address_line": "97302 Merida, Yucatan, Mexico",
+        "latitude": 21.0480356,
+        "longitude": -89.65150679999999,
+        "place_id": "ChIJwTsi_491Vo8R9PLVDH-jOLo",
+        "formatted_address": "97302 Merida, Yucatan, Mexico",
+        "route": null,
+        "neighborhood": null,
+        "locality": "Merida",
+        "admin_area_level_1": "Yucatan",
+        "country": "Mexico",
+        "google_maps_query_link": "https://www.google.com/maps/search/?api=1&query=97302%20Merida%2C%20Yucatan%2C%20Mexico&query_place_id=ChIJwTsi_491Vo8R9PLVDH-jOLo",
+        "google_maps_latlng_link": "https://www.google.com/maps/@?api=1&map_action=map&center=21.0480356,-89.65150679999999&zoom=16"
+    },
+    "interview_availability": {
+        "slots": [
+            {
+                "day": "Lunes",
+                "start": "09:00",
+                "end": "09:30"
+            },
+            {
+                "day": "Lunes",
+                "start": "09:30",
+                "end": "10:00"
+            },
+            {
+                "day": "Lunes",
+                "start": "10:00",
+                "end": "10:30"
+            },
+            {
+                "day": "Lunes",
+                "start": "10:30",
+                "end": "11:00"
+            },
+            {
+                "day": "Lunes",
+                "start": "11:00",
+                "end": "11:30"
+            },
+            {
+                "day": "Lunes",
+                "start": "11:30",
+                "end": "12:00"
+            },
+            {
+                "day": "Lunes",
+                "start": "12:00",
+                "end": "12:30"
+            },
+            {
+                "day": "Lunes",
+                "start": "12:30",
+                "end": "13:00"
+            },
+            {
+                "day": "Lunes",
+                "start": "13:00",
+                "end": "13:30"
+            },
+            {
+                "day": "Lunes",
+                "start": "13:30",
+                "end": "14:00"
+            },
+            {
+                "day": "Martes",
+                "start": "09:00",
+                "end": "09:30"
+            },
+            {
+                "day": "Martes",
+                "start": "09:30",
+                "end": "10:00"
+            },
+            {
+                "day": "Martes",
+                "start": "10:00",
+                "end": "10:30"
+            },
+            {
+                "day": "Martes",
+                "start": "10:30",
+                "end": "11:00"
+            },
+            {
+                "day": "Martes",
+                "start": "11:00",
+                "end": "11:30"
+            },
+            {
+                "day": "Martes",
+                "start": "11:30",
+                "end": "12:00"
+            },
+            {
+                "day": "Martes",
+                "start": "12:00",
+                "end": "12:30"
+            },
+            {
+                "day": "Martes",
+                "start": "12:30",
+                "end": "13:00"
+            },
+            {
+                "day": "Martes",
+                "start": "13:00",
+                "end": "13:30"
+            },
+            {
+                "day": "Martes",
+                "start": "13:30",
+                "end": "14:00"
+            },
+            {
+                "day": "Miércoles",
+                "start": "09:00",
+                "end": "09:30"
+            },
+            {
+                "day": "Miércoles",
+                "start": "09:30",
+                "end": "10:00"
+            },
+            {
+                "day": "Miércoles",
+                "start": "10:00",
+                "end": "10:30"
+            },
+            {
+                "day": "Miércoles",
+                "start": "10:30",
+                "end": "11:00"
+            },
+            {
+                "day": "Miércoles",
+                "start": "11:00",
+                "end": "11:30"
+            },
+            {
+                "day": "Miércoles",
+                "start": "11:30",
+                "end": "12:00"
+            },
+            {
+                "day": "Miércoles",
+                "start": "12:00",
+                "end": "12:30"
+            },
+            {
+                "day": "Miércoles",
+                "start": "12:30",
+                "end": "13:00"
+            },
+            {
+                "day": "Miércoles",
+                "start": "13:00",
+                "end": "13:30"
+            },
+            {
+                "day": "Miércoles",
+                "start": "13:30",
+                "end": "14:00"
+            },
+            {
+                "day": "Jueves",
+                "start": "09:00",
+                "end": "09:30"
+            },
+            {
+                "day": "Jueves",
+                "start": "09:30",
+                "end": "10:00"
+            },
+            {
+                "day": "Jueves",
+                "start": "10:00",
+                "end": "10:30"
+            },
+            {
+                "day": "Jueves",
+                "start": "10:30",
+                "end": "11:00"
+            },
+            {
+                "day": "Jueves",
+                "start": "11:00",
+                "end": "11:30"
+            },
+            {
+                "day": "Jueves",
+                "start": "11:30",
+                "end": "12:00"
+            },
+            {
+                "day": "Jueves",
+                "start": "12:00",
+                "end": "12:30"
+            },
+            {
+                "day": "Jueves",
+                "start": "12:30",
+                "end": "13:00"
+            },
+            {
+                "day": "Jueves",
+                "start": "13:00",
+                "end": "13:30"
+            },
+            {
+                "day": "Jueves",
+                "start": "13:30",
+                "end": "14:00"
+            },
+            {
+                "day": "Viernes",
+                "start": "09:00",
+                "end": "09:30"
+            },
+            {
+                "day": "Viernes",
+                "start": "09:30",
+                "end": "10:00"
+            },
+            {
+                "day": "Viernes",
+                "start": "10:00",
+                "end": "10:30"
+            },
+            {
+                "day": "Viernes",
+                "start": "10:30",
+                "end": "11:00"
+            },
+            {
+                "day": "Viernes",
+                "start": "11:00",
+                "end": "11:30"
+            },
+            {
+                "day": "Viernes",
+                "start": "11:30",
+                "end": "12:00"
+            },
+            {
+                "day": "Viernes",
+                "start": "12:00",
+                "end": "12:30"
+            },
+            {
+                "day": "Viernes",
+                "start": "12:30",
+                "end": "13:00"
+            },
+            {
+                "day": "Viernes",
+                "start": "13:00",
+                "end": "13:30"
+            },
+            {
+                "day": "Viernes",
+                "start": "13:30",
+                "end": "14:00"
+            }
+        ],
+        "days": [
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves",
+            "Viernes"
+        ],
+        "times": [
+            "09:00",
+            "09:30",
+            "10:00",
+            "10:30",
+            "11:00",
+            "11:30",
+            "12:00",
+            "12:30",
+            "13:00",
+            "13:30"
+        ],
+        "excludedDates": [],
+        "excludedTimes": [],
+        "slotDurationMin": 30
+    },
+    "interview_reminders": {
+        "channels": [],
+        "schedule": {
+            "fixed": {
+                "nightBefore": null,
+                "dayOf": null
+            },
+            "variable": {
+                "hoursBefore": 12
+            }
+        }
+    },
+    "company_benefits": [
+        "Uniforme",
+        "Seguro Social IMSS",
+        "Prestaciones de Ley y superiores",
+        "Comisiones",
+        "Caja de Ahorro",
+        "Uniformes Gratis",
+        "__other__",
+        "Comisiones por venta",
+        "Comisiones por entrega"
+    ],
+    "hr_contact_name": "Jesús Vega Aguirre",
+    "hr_contact_phone": "+529998999706",
+    "vacancies": [
+        {
+            "role_name": "Preventista",
+            "use_company_address": true,
+            "location": {
+                "address_line": "97302 Merida, Yucatan, Mexico",
+                "latitude": 21.0480356,
+                "longitude": -89.65150679999999,
+                "place_id": "ChIJwTsi_491Vo8R9PLVDH-jOLo",
+                "formatted_address": "97302 Merida, Yucatan, Mexico",
+                "route": null,
+                "neighborhood": null,
+                "locality": "Merida",
+                "admin_area_level_1": "Yucatan",
+                "country": "Mexico",
+                "google_maps_query_link": "https://www.google.com/maps/search/?api=1&query=97302%20Merida%2C%20Yucatan%2C%20Mexico&query_place_id=ChIJwTsi_491Vo8R9PLVDH-jOLo",
+                "google_maps_latlng_link": "https://www.google.com/maps/@?api=1&map_action=map&center=21.0480356,-89.65150679999999&zoom=16"
+            },
+            "relevant_info": "Encargado de ventas - Levantar pedidos para comercios",
+            "about_role": "Encargado de ventas\nLevantar pedidos para comercios\n"
+        },
+        {
+            "role_name": "Preventista",
+            "use_company_address": false,
+            "location": {
+                "address_line": "C. Palmeras 11, Campestre, 77712 Playa del Carmen, Q.R., Mexico",
+                "latitude": 20.6116729,
+                "longitude": -87.1040986,
+                "place_id": "Ej9DLiBQYWxtZXJhcyAxMSwgQ2FtcGVzdHJlLCA3NzcxMiBQbGF5YSBkZWwgQ2FybWVuLCBRLlIuLCBNZXhpY28iMBIuChQKEgnRSeFunkNOjxE0jhYeotx4YhALKhQKEgk5xskLnkNOjxFqmkMMS0Lntw",
+                "formatted_address": "C. Palmeras 11, Campestre, 77712 Playa del Carmen, Q.R., Mexico",
+                "route": "Calle Palmeras",
+                "neighborhood": "Campestre",
+                "locality": "Playa del Carmen",
+                "admin_area_level_1": "Quintana Roo",
+                "country": "Mexico",
+                "google_maps_query_link": "https://www.google.com/maps/search/?api=1&query=C.%20Palmeras%2011%2C%20Campestre%2C%2077712%20Playa%20del%20Carmen%2C%20Q.R.%2C%20Mexico&query_place_id=Ej9DLiBQYWxtZXJhcyAxMSwgQ2FtcGVzdHJlLCA3NzcxMiBQbGF5YSBkZWwgQ2FybWVuLCBRLlIuLCBNZXhpY28iMBIuChQKEgnRSeFunkNOjxE0jhYeotx4YhALKhQKEgk5xskLnkNOjxFqmkMMS0Lntw",
+                "google_maps_latlng_link": "https://www.google.com/maps/@?api=1&map_action=map&center=20.6116729,-87.1040986&zoom=16"
+            },
+            "relevant_info": "Encargado de ventas - Levantar pedidos para comercios",
+            "about_role": "Encargado de ventas\nLevantar pedidos para comercios\n"
+        },
+        {
+            "role_name": "Preventista",
+            "use_company_address": false,
+            "location": {
+                "address_line": "Av Cozumel 123, Barrio Bravo, 77098 Chetumal, Q.R., Mexico",
+                "latitude": 18.4998777,
+                "longitude": -88.2891927,
+                "place_id": "ChIJtdJN2HajW48RTZOPYfm35dk",
+                "formatted_address": "Av Cozumel 123, Barrio Bravo, 77098 Chetumal, Q.R., Mexico",
+                "route": "Avenida Cozumel",
+                "neighborhood": "Barrio Bravo",
+                "locality": "Chetumal",
+                "admin_area_level_1": "Quintana Roo",
+                "country": "Mexico",
+                "google_maps_query_link": "https://www.google.com/maps/search/?api=1&query=Av%20Cozumel%20123%2C%20Barrio%20Bravo%2C%2077098%20Chetumal%2C%20Q.R.%2C%20Mexico&query_place_id=ChIJtdJN2HajW48RTZOPYfm35dk",
+                "google_maps_latlng_link": "https://www.google.com/maps/@?api=1&map_action=map&center=18.4998777,-88.2891927&zoom=16"
+            },
+            "relevant_info": "Encargado de ventas - Levantar pedidos para comercios",
+            "about_role": "Encargado de ventas\nLevantar pedidos para comercios\n"
+        },
+        {
+            "role_name": "Preventista",
+            "use_company_address": false,
+            "location": {
+                "address_line": "Cancun - Valladolid 20, Militar, 97782 Valladolid, Yuc., Mexico",
+                "latitude": 20.6918783,
+                "longitude": -88.18293589999999,
+                "place_id": "ChIJeSNjTLcKUY8RDowAOsNRtXg",
+                "formatted_address": "Cancun - Valladolid 20, Militar, 97782 Valladolid, Yuc., Mexico",
+                "route": "Cancun - Valladolid",
+                "neighborhood": "Militar",
+                "locality": "Valladolid",
+                "admin_area_level_1": "Yucatán",
+                "country": "Mexico",
+                "google_maps_query_link": "https://www.google.com/maps/search/?api=1&query=Cancun%20-%20Valladolid%2020%2C%20Militar%2C%2097782%20Valladolid%2C%20Yuc.%2C%20Mexico&query_place_id=ChIJeSNjTLcKUY8RDowAOsNRtXg",
+                "google_maps_latlng_link": "https://www.google.com/maps/@?api=1&map_action=map&center=20.6918783,-88.18293589999999&zoom=16"
+            },
+            "relevant_info": "Encargado de ventas - Levantar pedidos para comercios",
+            "about_role": "Encargado de ventas\nLevantar pedidos para comercios\n"
+        },
+        {
+            "role_name": "Preventista",
+            "use_company_address": false,
+            "location": {
+                "address_line": "C. 23 239A, Ticul, 97864 Ticul, Yuc., Mexico",
+                "latitude": 20.3958506,
+                "longitude": -89.55281579999999,
+                "place_id": "ChIJSdt32ItNVo8RbEl3bDEsJxI",
+                "formatted_address": "C. 23 239A, Ticul, 97864 Ticul, Yuc., Mexico",
+                "route": "Calle 23",
+                "neighborhood": "Ticul",
+                "locality": "Ticul",
+                "admin_area_level_1": "Yucatán",
+                "country": "Mexico",
+                "google_maps_query_link": "https://www.google.com/maps/search/?api=1&query=C.%2023%20239A%2C%20Ticul%2C%2097864%20Ticul%2C%20Yuc.%2C%20Mexico&query_place_id=ChIJSdt32ItNVo8RbEl3bDEsJxI",
+                "google_maps_latlng_link": "https://www.google.com/maps/@?api=1&map_action=map&center=20.3958506,-89.55281579999999&zoom=16"
+            },
+            "relevant_info": "Encargado de ventas - Levantar pedidos para comercios",
+            "about_role": "Encargado de ventas\nLevantar pedidos para comercios\n"
+        }
+    ],
+    "demographics_groups": [
+        {
+            "minAge": 20,
+            "maxAge": 50,
+            "appliesToAll": true,
+            "vacancyIndexes": [],
+            "education": "Secundaria"
+        }
+    ],
+    "salary_groups": [
+        {
+            "payType": "Neto",
+            "bank": "Citibanamex,BBVA",
+            "frequency": "Quincenal",
+            "notes": "Sueldo base más bonos por venta y concursos. Hasta $15,000MXN mensuales considerando bonos y concursos.",
+            "candidateBankRule": "allow_any",
+            "candidateExcludeBanks": [],
+            "appliesToAll": true,
+            "vacancyIndexes": [],
+            "amount": 4250
+        }
+    ],
+    "shift_groups": [
+        {
+            "shift": "Turno fijo - 7am a 5pm (aprox).",
+            "includeBreaks": true,
+            "appliesToAll": true,
+            "vacancyIndexes": [],
+            "breaksNote": "Todos los domingos",
+            "discardIfCannotWorkShift": true
+        }
+    ],
+    "document_groups": [
+        {
+            "appliesToAll": true,
+            "vacancyIndexes": [],
+            "documents": {
+                "ine": "required",
+                "curp": "required",
+                "sat": "required",
+                "imss": "required",
+                "comprobante_domicilio": "required",
+                "comprobante_estudios": "none",
+                "acta_nacimiento": "required",
+                "solicitud_empleo": "required",
+                "cartilla_militar": "none",
+                "antecedentes_penales": "none",
+                "cv": "required",
+                "constancias_laborales": "none",
+                "fotos_infantil": "none",
+                "acta_beneficiario": "none",
+                "cuenta_bancaria": "required"
+            },
+            "discardIfNoDocs": true
+        }
+    ],
+    "transport_certs_extras_groups": [
+        {
+            "appliesToAll": true,
+            "vacancyIndexes": [],
+            "transport": {
+                "hasTransport": false,
+                "note": "",
+                "routesNote": ""
+            },
+            "certifications": {
+                "required": false,
+                "discardIfMissing": null,
+                "name": ""
+            },
+            "extras": [
+                {
+                    "question": "Cual es la experiencia previa del candidato en ventas.",
+                    "answer": "..."
+                },
+                {
+                    "question": "Cuenta con licencia de motociclista",
+                    "answer": "..."
+                }
+            ]
+        }
+    ],
+    "interviews_groups": [
+        {
+            "askFor": "Jesus Vega Aguirre",
+            "directions": "Dependiendo de la sucursal son las instrucciones debidas.",
+            "transportRoutes": "Dependiendo de la sucursal son las instrucciones debidas.",
+            "appliesToAll": true,
+            "vacancyIndexes": []
+        }
+    ],
+    "candidate_question_flow": {
+        "companyType": "2 - Criterios de Elegibilidad parcial",
+        "general": {
+            "order": [
+                "welcome",
+                "name",
+                "age",
+                "education",
+                "shifts",
+                "certifications_general",
+                "select_role_eligibility"
+            ],
+            "include": {
+                "welcome": true,
+                "name": true,
+                "age": true,
+                "education": false,
+                "shifts": true,
+                "certifications_general": false,
+                "select_role_eligibility": false
+            },
+            "templates": {
+                "welcome": "¡Hola! 👋 Gracias por tu interés. Te haremos unas preguntas rápidas para continuar.",
+                "name": "🧑‍💼 ¿Cuál es tu nombre completo?",
+                "age": "🎂 ¿Cuántos años tienes?",
+                "education": "🎓 ¿Cuál es tu último nivel educativo concluido?",
+                "shifts": "⏰ ¿Puedes trabajar en el turno indicado? Responde Sí o No.",
+                "certifications_general": "✅ ¿Cuentas con la certificación requerida?",
+                "select_role_eligibility": "✅ Confirma si cumples con los criterios de elegibilidad del rol elegido."
+            },
+            "welcomeDraft": "¡Hola! 👋 Gracias por tu interés. Te haremos unas preguntas rápidas para continuar."
+        },
+        "perRole": [
+            {
+                "vacancyIndexes": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "questions": {
+                    "location": {
+                        "enabled": false,
+                        "template": "📍 ¿En qué colonia y municipio vives?"
+                    },
+                    "experience": {
+                        "enabled": true,
+                        "template": "🛠️ ¿Tienes experiencia previa en el puesto? Cuéntanos brevemente."
+                    },
+                    "references": {
+                        "enabled": true,
+                        "template": "📇 ¿Puedes compartir 1–2 referencias laborales (nombre y teléfono)?"
+                    },
+                    "last12months": {
+                        "enabled": true,
+                        "template": "📅 ¿Has trabajado en los últimos 12 meses? ¿Dónde y cuánto tiempo?"
+                    },
+                    "documents": {
+                        "enabled": true,
+                        "template": "📄 ¿Cuentas con INE, CURP, Constancia de situación fiscal (SAT), Número de Seguro Social (IMSS), Comprobante de domicilio, Acta de nacimiento, Solicitud de empleo, CV, Cuenta bancaria?"
+                    },
+                    "bank": {
+                        "enabled": true,
+                        "template": "🏦 ¿Tienes cuenta en Citibanamex?"
+                    }
+                }
+            }
+        ],
+        "bookingTemplate": "🗓️ Para agendar tu entrevista, por favor elige un horario disponible respondiendo con el número de la opción."
+    }
+}

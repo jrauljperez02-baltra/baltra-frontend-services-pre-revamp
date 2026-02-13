@@ -1,0 +1,410 @@
+{
+    "company_name": "BaltraAI",
+    "company_type": 2,
+    "company_type_id": 2,
+    "company_type_label": "Estilo Integer",
+    "company_website": "https://tuweb.com",
+    "company_description": "BaltraAI",
+    "company_address": {
+        "address_line": "Perif. Blvd. Manuel Ávila Camacho, Cd. Satélite, Naucalpan de Juárez, Méx., Mexico",
+        "latitude": 19.5076782,
+        "longitude": -99.2365553,
+        "place_id": "ElZQZXJpZi4gQmx2ZC4gTWFudWVsIMOBdmlsYSBDYW1hY2hvLCBDZC4gU2F0w6lsaXRlLCBOYXVjYWxwYW4gZGUgSnXDoXJleiwgTcOpeC4sIE1leGljbyIuKiwKFAoSCR019zVyHdKFERlSLFnJfTVQEhQKEgkxW4x2JwPShRH4F7HQpKFPhA",
+        "formatted_address": "Perif. Blvd. Manuel Ávila Camacho, Cd. Satélite, Naucalpan de Juárez, Méx., Mexico",
+        "route": "Periférico Boulevard Manuel Ávila Camacho",
+        "neighborhood": "Ciudad Satélite",
+        "locality": "Naucalpan de Juárez",
+        "admin_area_level_1": "Estado de México",
+        "country": "Mexico",
+        "google_maps_query_link": "https://www.google.com/maps/search/?api=1&query=Perif.%20Blvd.%20Manuel%20%C3%81vila%20Camacho%2C%20Cd.%20Sat%C3%A9lite%2C%20Naucalpan%20de%20Ju%C3%A1rez%2C%20M%C3%A9x.%2C%20Mexico&query_place_id=ElZQZXJpZi4gQmx2ZC4gTWFudWVsIMOBdmlsYSBDYW1hY2hvLCBDZC4gU2F0w6lsaXRlLCBOYXVjYWxwYW4gZGUgSnXDoXJleiwgTcOpeC4sIE1leGljbyIuKiwKFAoSCR019zVyHdKFERlSLFnJfTVQEhQKEgkxW4x2JwPShRH4F7HQpKFPhA",
+        "google_maps_latlng_link": "https://www.google.com/maps/@?api=1&map_action=map&center=19.5076782,-99.2365553&zoom=16"
+    },
+    "interview_availability": {
+        "slots": [
+            {
+                "day": "Lunes",
+                "start": "08:00",
+                "end": "08:30"
+            },
+            {
+                "day": "Lunes",
+                "start": "07:30",
+                "end": "08:00"
+            },
+            {
+                "day": "Lunes",
+                "start": "08:30",
+                "end": "09:00"
+            },
+            {
+                "day": "Lunes",
+                "start": "09:00",
+                "end": "09:30"
+            },
+            {
+                "day": "Lunes",
+                "start": "14:30",
+                "end": "15:00"
+            },
+            {
+                "day": "Lunes",
+                "start": "11:30",
+                "end": "12:00"
+            },
+            {
+                "day": "Lunes",
+                "start": "13:30",
+                "end": "14:00"
+            },
+            {
+                "day": "Lunes",
+                "start": "11:00",
+                "end": "11:30"
+            },
+            {
+                "day": "Lunes",
+                "start": "14:00",
+                "end": "14:30"
+            },
+            {
+                "day": "Lunes",
+                "start": "10:30",
+                "end": "11:00"
+            },
+            {
+                "day": "Viernes",
+                "start": "08:00",
+                "end": "08:30"
+            },
+            {
+                "day": "Viernes",
+                "start": "07:30",
+                "end": "08:00"
+            },
+            {
+                "day": "Viernes",
+                "start": "08:30",
+                "end": "09:00"
+            },
+            {
+                "day": "Viernes",
+                "start": "09:00",
+                "end": "09:30"
+            },
+            {
+                "day": "Viernes",
+                "start": "14:30",
+                "end": "15:00"
+            },
+            {
+                "day": "Viernes",
+                "start": "11:30",
+                "end": "12:00"
+            },
+            {
+                "day": "Viernes",
+                "start": "13:30",
+                "end": "14:00"
+            },
+            {
+                "day": "Viernes",
+                "start": "11:00",
+                "end": "11:30"
+            },
+            {
+                "day": "Viernes",
+                "start": "14:00",
+                "end": "14:30"
+            },
+            {
+                "day": "Viernes",
+                "start": "10:30",
+                "end": "11:00"
+            }
+        ],
+        "days": [
+            "Lunes",
+            "Viernes"
+        ],
+        "times": [
+            "08:00",
+            "07:30",
+            "08:30",
+            "09:00",
+            "14:30",
+            "11:30",
+            "13:30",
+            "11:00",
+            "14:00",
+            "10:30"
+        ],
+        "excludedDates": [],
+        "excludedTimes": [],
+        "slotDurationMin": 30
+    },
+    "interview_reminders": {
+        "channels": [],
+        "schedule": {
+            "fixed": {
+                "nightBefore": "19:00",
+                "dayOf": null
+            },
+            "variable": {
+                "hoursBefore": null
+            }
+        }
+    },
+    "company_benefits": [
+        "Vales de despensa",
+        "Uniforme",
+        "Seguro Social IMSS",
+        "Prestaciones de Ley y superiores",
+        "Caja de Ahorro",
+        "Uniformes Gratis"
+    ],
+    "hr_contact_name": "Tomas Cortes",
+    "hr_contact_phone": "+528121945288",
+    "vacancies": [
+        {
+            "role_name": "Cargador Tipo 1",
+            "use_company_address": true,
+            "location": {
+                "address_line": "Perif. Blvd. Manuel Ávila Camacho, Cd. Satélite, Naucalpan de Juárez, Méx., Mexico",
+                "latitude": 19.5076782,
+                "longitude": -99.2365553,
+                "place_id": "ElZQZXJpZi4gQmx2ZC4gTWFudWVsIMOBdmlsYSBDYW1hY2hvLCBDZC4gU2F0w6lsaXRlLCBOYXVjYWxwYW4gZGUgSnXDoXJleiwgTcOpeC4sIE1leGljbyIuKiwKFAoSCR019zVyHdKFERlSLFnJfTVQEhQKEgkxW4x2JwPShRH4F7HQpKFPhA",
+                "formatted_address": "Perif. Blvd. Manuel Ávila Camacho, Cd. Satélite, Naucalpan de Juárez, Méx., Mexico",
+                "route": "Periférico Boulevard Manuel Ávila Camacho",
+                "neighborhood": "Ciudad Satélite",
+                "locality": "Naucalpan de Juárez",
+                "admin_area_level_1": "Estado de México",
+                "country": "Mexico",
+                "google_maps_query_link": "https://www.google.com/maps/search/?api=1&query=Perif.%20Blvd.%20Manuel%20%C3%81vila%20Camacho%2C%20Cd.%20Sat%C3%A9lite%2C%20Naucalpan%20de%20Ju%C3%A1rez%2C%20M%C3%A9x.%2C%20Mexico&query_place_id=ElZQZXJpZi4gQmx2ZC4gTWFudWVsIMOBdmlsYSBDYW1hY2hvLCBDZC4gU2F0w6lsaXRlLCBOYXVjYWxwYW4gZGUgSnXDoXJleiwgTcOpeC4sIE1leGljbyIuKiwKFAoSCR019zVyHdKFERlSLFnJfTVQEhQKEgkxW4x2JwPShRH4F7HQpKFPhA",
+                "google_maps_latlng_link": "https://www.google.com/maps/@?api=1&map_action=map&center=19.5076782,-99.2365553&zoom=16"
+            },
+            "relevant_info": "NA",
+            "about_role": "NA"
+        },
+        {
+            "role_name": "Cargador Tipo 2",
+            "use_company_address": true,
+            "location": {
+                "address_line": "Perif. Blvd. Manuel Ávila Camacho, Cd. Satélite, Naucalpan de Juárez, Méx., Mexico",
+                "latitude": 19.5076782,
+                "longitude": -99.2365553,
+                "place_id": "ElZQZXJpZi4gQmx2ZC4gTWFudWVsIMOBdmlsYSBDYW1hY2hvLCBDZC4gU2F0w6lsaXRlLCBOYXVjYWxwYW4gZGUgSnXDoXJleiwgTcOpeC4sIE1leGljbyIuKiwKFAoSCR019zVyHdKFERlSLFnJfTVQEhQKEgkxW4x2JwPShRH4F7HQpKFPhA",
+                "formatted_address": "Perif. Blvd. Manuel Ávila Camacho, Cd. Satélite, Naucalpan de Juárez, Méx., Mexico",
+                "route": "Periférico Boulevard Manuel Ávila Camacho",
+                "neighborhood": "Ciudad Satélite",
+                "locality": "Naucalpan de Juárez",
+                "admin_area_level_1": "Estado de México",
+                "country": "Mexico",
+                "google_maps_query_link": "https://www.google.com/maps/search/?api=1&query=Perif.%20Blvd.%20Manuel%20%C3%81vila%20Camacho%2C%20Cd.%20Sat%C3%A9lite%2C%20Naucalpan%20de%20Ju%C3%A1rez%2C%20M%C3%A9x.%2C%20Mexico&query_place_id=ElZQZXJpZi4gQmx2ZC4gTWFudWVsIMOBdmlsYSBDYW1hY2hvLCBDZC4gU2F0w6lsaXRlLCBOYXVjYWxwYW4gZGUgSnXDoXJleiwgTcOpeC4sIE1leGljbyIuKiwKFAoSCR019zVyHdKFERlSLFnJfTVQEhQKEgkxW4x2JwPShRH4F7HQpKFPhA",
+                "google_maps_latlng_link": "https://www.google.com/maps/@?api=1&map_action=map&center=19.5076782,-99.2365553&zoom=16"
+            },
+            "relevant_info": "NA",
+            "about_role": "NA"
+        },
+        {
+            "role_name": "Cargador Tipo 3",
+            "use_company_address": true,
+            "location": {
+                "address_line": "Perif. Blvd. Manuel Ávila Camacho, Cd. Satélite, Naucalpan de Juárez, Méx., Mexico",
+                "latitude": 19.5076782,
+                "longitude": -99.2365553,
+                "place_id": "ElZQZXJpZi4gQmx2ZC4gTWFudWVsIMOBdmlsYSBDYW1hY2hvLCBDZC4gU2F0w6lsaXRlLCBOYXVjYWxwYW4gZGUgSnXDoXJleiwgTcOpeC4sIE1leGljbyIuKiwKFAoSCR019zVyHdKFERlSLFnJfTVQEhQKEgkxW4x2JwPShRH4F7HQpKFPhA",
+                "formatted_address": "Perif. Blvd. Manuel Ávila Camacho, Cd. Satélite, Naucalpan de Juárez, Méx., Mexico",
+                "route": "Periférico Boulevard Manuel Ávila Camacho",
+                "neighborhood": "Ciudad Satélite",
+                "locality": "Naucalpan de Juárez",
+                "admin_area_level_1": "Estado de México",
+                "country": "Mexico",
+                "google_maps_query_link": "https://www.google.com/maps/search/?api=1&query=Perif.%20Blvd.%20Manuel%20%C3%81vila%20Camacho%2C%20Cd.%20Sat%C3%A9lite%2C%20Naucalpan%20de%20Ju%C3%A1rez%2C%20M%C3%A9x.%2C%20Mexico&query_place_id=ElZQZXJpZi4gQmx2ZC4gTWFudWVsIMOBdmlsYSBDYW1hY2hvLCBDZC4gU2F0w6lsaXRlLCBOYXVjYWxwYW4gZGUgSnXDoXJleiwgTcOpeC4sIE1leGljbyIuKiwKFAoSCR019zVyHdKFERlSLFnJfTVQEhQKEgkxW4x2JwPShRH4F7HQpKFPhA",
+                "google_maps_latlng_link": "https://www.google.com/maps/@?api=1&map_action=map&center=19.5076782,-99.2365553&zoom=16"
+            },
+            "relevant_info": "NA",
+            "about_role": "NA"
+        }
+    ],
+    "demographics_groups": [
+        {
+            "minAge": 18,
+            "maxAge": 60,
+            "appliesToAll": true,
+            "vacancyIndexes": [],
+            "education": "Preparatoria"
+        }
+    ],
+    "salary_groups": [
+        {
+            "payType": "Bruto",
+            "bank": "BBVA,Citibanamex,Banorte,Santander",
+            "frequency": "Quincenal",
+            "notes": "NA",
+            "candidateBankRule": "must_match_pay_bank",
+            "candidateExcludeBanks": [],
+            "appliesToAll": true,
+            "vacancyIndexes": [],
+            "amount": 2600
+        }
+    ],
+    "shift_groups": [
+        {
+            "shift": "Matutino",
+            "includeBreaks": true,
+            "appliesToAll": true,
+            "vacancyIndexes": [],
+            "breaksNote": "1 dia de descanso a la semana",
+            "discardIfCannotWorkShift": true
+        }
+    ],
+    "document_groups": [
+        {
+            "appliesToAll": true,
+            "vacancyIndexes": [],
+            "documents": {
+                "ine": "required",
+                "curp": "required",
+                "sat": "required",
+                "imss": "required",
+                "comprobante_domicilio": "required",
+                "comprobante_estudios": "none",
+                "acta_nacimiento": "none",
+                "solicitud_empleo": "none",
+                "cartilla_militar": "required",
+                "antecedentes_penales": "required",
+                "cv": "none",
+                "constancias_laborales": "none",
+                "fotos_infantil": "none",
+                "acta_beneficiario": "none",
+                "cuenta_bancaria": "none"
+            },
+            "discardIfNoDocs": true
+        }
+    ],
+    "transport_certs_extras_groups": [
+        {
+            "appliesToAll": true,
+            "vacancyIndexes": [],
+            "transport": {
+                "hasTransport": false,
+                "note": "",
+                "routesNote": ""
+            },
+            "certifications": {
+                "required": false,
+                "discardIfMissing": null,
+                "name": ""
+            },
+            "extras": []
+        }
+    ],
+    "interviews_groups": [
+        {
+            "askFor": "Tomas Cortes",
+            "directions": "Deberas subir al piso 36 del edificio verde",
+            "transportRoutes": "Deberas subir a la ruta 54 del autobus que va del aeropuerto al centro.",
+            "appliesToAll": true,
+            "vacancyIndexes": []
+        }
+    ],
+    "candidate_question_flow": {
+        "companyType": "2 - Criterios de Elegibilidad parcial",
+        "general": {
+            "order": [
+                "welcome",
+                "name",
+                "age",
+                "education",
+                "shifts",
+                "certifications_general",
+                "select_role_eligibility"
+            ],
+            "include": {
+                "welcome": true,
+                "name": true,
+                "age": false,
+                "education": false,
+                "shifts": false,
+                "certifications_general": false,
+                "select_role_eligibility": false
+            },
+            "templates": {
+                "welcome": "¡Hola! 👋 Gracias por tu interés. Te haremos unas preguntas rápidas para continuar.",
+                "name": "🧑‍💼 ¿Cuál es tu nombre completo?",
+                "age": "🎂 ¿Cuántos años tienes?",
+                "education": "🎓 ¿Cuál es tu último nivel educativo concluido?",
+                "shifts": "⏰ ¿Puedes trabajar en el turno indicado? Responde Sí o No.",
+                "certifications_general": "✅ ¿Cuentas con la certificación requerida?",
+                "select_role_eligibility": "✅ Confirma si cumples con los criterios de elegibilidad del rol elegido."
+            },
+            "welcomeDraft": "¡Hola! 👋 Gracias por tu interés. Te haremos unas preguntas rápidas para continuar."
+        },
+        "perRole": [
+            {
+                "vacancyIndexes": [
+                    2
+                ],
+                "questions": {
+                    "location": {
+                        "enabled": true,
+                        "template": "📍 ¿En qué colonia y municipio vives?"
+                    },
+                    "experience": {
+                        "enabled": true,
+                        "template": "🛠️ ¿Tienes experiencia previa en el puesto? Cuéntanos brevemente."
+                    },
+                    "references": {
+                        "enabled": true,
+                        "template": "📇 ¿Puedes compartir 1–2 referencias laborales (nombre y teléfono)?"
+                    },
+                    "last12months": {
+                        "enabled": false,
+                        "template": "📅 ¿Has trabajado en los últimos 12 meses? ¿Dónde y cuánto tiempo?"
+                    },
+                    "documents": {
+                        "enabled": true,
+                        "template": "📄 ¿Cuentas con INE, CURP, Constancia de situación fiscal (SAT), Número de Seguro Social (IMSS), Comprobante de domicilio, Cartilla militar, Carta de no antecedentes?"
+                    },
+                    "bank": {
+                        "enabled": true,
+                        "template": "🏦 ¿Tienes cuenta en BBVA?"
+                    }
+                }
+            },
+            {
+                "vacancyIndexes": [
+                    0,
+                    1
+                ],
+                "questions": {
+                    "location": {
+                        "enabled": true,
+                        "template": "📍 ¿En qué colonia y municipio vives?"
+                    },
+                    "experience": {
+                        "enabled": true,
+                        "template": "🛠️ ¿Tienes experiencia previa en el puesto? Cuéntanos brevemente."
+                    },
+                    "references": {
+                        "enabled": true,
+                        "template": "📇 ¿Puedes compartir 1–2 referencias laborales (nombre y teléfono)?"
+                    },
+                    "last12months": {
+                        "enabled": false,
+                        "template": "📅 ¿Has trabajado en los últimos 12 meses? ¿Dónde y cuánto tiempo?"
+                    },
+                    "documents": {
+                        "enabled": true,
+                        "template": "📄 ¿Cuentas con INE, CURP, Constancia de situación fiscal (SAT), Número de Seguro Social (IMSS), Comprobante de domicilio, Cartilla militar, Carta de no antecedentes?"
+                    },
+                    "bank": {
+                        "enabled": true,
+                        "template": "🏦 ¿Tienes cuenta en BBVA?"
+                    }
+                }
+            }
+        ],
+        "bookingTemplate": "🗓️ Para agendar tu entrevista, por favor elige un horario disponible respondiendo con el número de la opción."
+    }
+}

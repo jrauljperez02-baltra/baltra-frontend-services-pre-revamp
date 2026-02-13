@@ -1,0 +1,557 @@
+{
+    "company_name": "Testing Company",
+    "company_type": 2,
+    "company_type_id": 2,
+    "company_type_label": "Estilo Integer",
+    "company_website": "https://tuweb.com",
+    "company_description": "Testing company es una empresa dedicada a dar soporte global a clientes del sector financiero.",
+    "company_address": {
+        "address_line": "Periferico Sur, Jardines del Pedregal, Ciudad de México, CDMX, Mexico",
+        "latitude": 19.3233368,
+        "longitude": -99.2168358,
+        "place_id": "EkZQZXJpZmVyaWNvIFN1ciwgSmFyZGluZXMgZGVsIFBlZHJlZ2FsLCBDaXVkYWQgZGUgTcOpeGljbywgQ0RNWCwgTWV4aWNvIi4qLAoUChIJqVLyu8D_zYUR6QKpQMZ56SYSFAoSCcW6h0Hs_82FEQtNtwy8bM3L",
+        "formatted_address": "Periferico Sur, Jardines del Pedregal, Ciudad de México, CDMX, Mexico",
+        "route": "Periferico Sur",
+        "neighborhood": "Jardines del Pedregal",
+        "locality": "Ciudad de México",
+        "admin_area_level_1": "Ciudad de México",
+        "country": "Mexico",
+        "google_maps_query_link": "https://www.google.com/maps/search/?api=1&query=Periferico%20Sur%2C%20Jardines%20del%20Pedregal%2C%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX%2C%20Mexico&query_place_id=EkZQZXJpZmVyaWNvIFN1ciwgSmFyZGluZXMgZGVsIFBlZHJlZ2FsLCBDaXVkYWQgZGUgTcOpeGljbywgQ0RNWCwgTWV4aWNvIi4qLAoUChIJqVLyu8D_zYUR6QKpQMZ56SYSFAoSCcW6h0Hs_82FEQtNtwy8bM3L",
+        "google_maps_latlng_link": "https://www.google.com/maps/@?api=1&map_action=map&center=19.3233368,-99.2168358&zoom=16"
+    },
+    "interview_availability": {
+        "slots": [
+            {
+                "day": "Lunes",
+                "start": "08:00",
+                "end": "08:30"
+            },
+            {
+                "day": "Lunes",
+                "start": "08:30",
+                "end": "09:00"
+            },
+            {
+                "day": "Lunes",
+                "start": "09:00",
+                "end": "09:30"
+            },
+            {
+                "day": "Lunes",
+                "start": "11:00",
+                "end": "11:30"
+            },
+            {
+                "day": "Lunes",
+                "start": "11:30",
+                "end": "12:00"
+            },
+            {
+                "day": "Lunes",
+                "start": "12:00",
+                "end": "12:30"
+            },
+            {
+                "day": "Lunes",
+                "start": "10:30",
+                "end": "11:00"
+            },
+            {
+                "day": "Lunes",
+                "start": "13:30",
+                "end": "14:00"
+            },
+            {
+                "day": "Lunes",
+                "start": "10:00",
+                "end": "10:30"
+            },
+            {
+                "day": "Lunes",
+                "start": "13:00",
+                "end": "13:30"
+            },
+            {
+                "day": "Lunes",
+                "start": "14:00",
+                "end": "14:30"
+            },
+            {
+                "day": "Viernes",
+                "start": "08:00",
+                "end": "08:30"
+            },
+            {
+                "day": "Viernes",
+                "start": "08:30",
+                "end": "09:00"
+            },
+            {
+                "day": "Viernes",
+                "start": "09:00",
+                "end": "09:30"
+            },
+            {
+                "day": "Viernes",
+                "start": "11:00",
+                "end": "11:30"
+            },
+            {
+                "day": "Viernes",
+                "start": "11:30",
+                "end": "12:00"
+            },
+            {
+                "day": "Viernes",
+                "start": "12:00",
+                "end": "12:30"
+            },
+            {
+                "day": "Viernes",
+                "start": "10:30",
+                "end": "11:00"
+            },
+            {
+                "day": "Viernes",
+                "start": "13:30",
+                "end": "14:00"
+            },
+            {
+                "day": "Viernes",
+                "start": "10:00",
+                "end": "10:30"
+            },
+            {
+                "day": "Viernes",
+                "start": "13:00",
+                "end": "13:30"
+            },
+            {
+                "day": "Viernes",
+                "start": "14:00",
+                "end": "14:30"
+            },
+            {
+                "day": "Jueves",
+                "start": "08:00",
+                "end": "08:30"
+            },
+            {
+                "day": "Jueves",
+                "start": "08:30",
+                "end": "09:00"
+            },
+            {
+                "day": "Jueves",
+                "start": "09:00",
+                "end": "09:30"
+            },
+            {
+                "day": "Jueves",
+                "start": "11:00",
+                "end": "11:30"
+            },
+            {
+                "day": "Jueves",
+                "start": "11:30",
+                "end": "12:00"
+            },
+            {
+                "day": "Jueves",
+                "start": "12:00",
+                "end": "12:30"
+            },
+            {
+                "day": "Jueves",
+                "start": "10:30",
+                "end": "11:00"
+            },
+            {
+                "day": "Jueves",
+                "start": "13:30",
+                "end": "14:00"
+            },
+            {
+                "day": "Jueves",
+                "start": "10:00",
+                "end": "10:30"
+            },
+            {
+                "day": "Jueves",
+                "start": "13:00",
+                "end": "13:30"
+            },
+            {
+                "day": "Jueves",
+                "start": "14:00",
+                "end": "14:30"
+            }
+        ],
+        "days": [
+            "Lunes",
+            "Viernes",
+            "Jueves"
+        ],
+        "times": [
+            "08:00",
+            "08:30",
+            "09:00",
+            "11:00",
+            "11:30",
+            "12:00",
+            "10:30",
+            "13:30",
+            "10:00",
+            "13:00",
+            "14:00"
+        ],
+        "excludedDates": [],
+        "excludedTimes": [],
+        "slotDurationMin": 30
+    },
+    "interview_reminders": {
+        "channels": [],
+        "schedule": {
+            "fixed": {
+                "nightBefore": "19:00",
+                "dayOf": null
+            },
+            "variable": {
+                "hoursBefore": null
+            }
+        }
+    },
+    "company_benefits": [
+        "Vales de despensa",
+        "Uniforme",
+        "Seguro Social IMSS",
+        "Prestaciones de Ley y superiores",
+        "Fondo de ahorro",
+        "Caja de Ahorro"
+    ],
+    "hr_contact_name": "Jesus Raul Jimenez Perez",
+    "hr_contact_phone": "+528121945288",
+    "vacancies": [
+        {
+            "role_name": "Cargador Tipo 1",
+            "use_company_address": true,
+            "location": {
+                "address_line": "Periferico Sur, Jardines del Pedregal, Ciudad de México, CDMX, Mexico",
+                "latitude": 19.3233368,
+                "longitude": -99.2168358,
+                "place_id": "EkZQZXJpZmVyaWNvIFN1ciwgSmFyZGluZXMgZGVsIFBlZHJlZ2FsLCBDaXVkYWQgZGUgTcOpeGljbywgQ0RNWCwgTWV4aWNvIi4qLAoUChIJqVLyu8D_zYUR6QKpQMZ56SYSFAoSCcW6h0Hs_82FEQtNtwy8bM3L",
+                "formatted_address": "Periferico Sur, Jardines del Pedregal, Ciudad de México, CDMX, Mexico",
+                "route": "Periferico Sur",
+                "neighborhood": "Jardines del Pedregal",
+                "locality": "Ciudad de México",
+                "admin_area_level_1": "Ciudad de México",
+                "country": "Mexico",
+                "google_maps_query_link": "https://www.google.com/maps/search/?api=1&query=Periferico%20Sur%2C%20Jardines%20del%20Pedregal%2C%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX%2C%20Mexico&query_place_id=EkZQZXJpZmVyaWNvIFN1ciwgSmFyZGluZXMgZGVsIFBlZHJlZ2FsLCBDaXVkYWQgZGUgTcOpeGljbywgQ0RNWCwgTWV4aWNvIi4qLAoUChIJqVLyu8D_zYUR6QKpQMZ56SYSFAoSCcW6h0Hs_82FEQtNtwy8bM3L",
+                "google_maps_latlng_link": "https://www.google.com/maps/@?api=1&map_action=map&center=19.3233368,-99.2168358&zoom=16"
+            },
+            "relevant_info": "NA",
+            "about_role": "NA"
+        },
+        {
+            "role_name": "Cargador Tipo 2",
+            "use_company_address": false,
+            "location": {
+                "address_line": "Tlaxcala, Mexico",
+                "latitude": 19.3139243,
+                "longitude": -98.2404397,
+                "place_id": "ChIJC5AwfmrZz4URyABdnapQy3I",
+                "formatted_address": "Tlaxcala, Mexico",
+                "route": null,
+                "neighborhood": null,
+                "locality": "Tlaxcala",
+                "admin_area_level_1": "Tlaxcala",
+                "country": "Mexico",
+                "google_maps_query_link": "https://www.google.com/maps/search/?api=1&query=Tlaxcala%2C%20Mexico&query_place_id=ChIJC5AwfmrZz4URyABdnapQy3I",
+                "google_maps_latlng_link": "https://www.google.com/maps/@?api=1&map_action=map&center=19.3139243,-98.2404397&zoom=16"
+            },
+            "relevant_info": "Testing Cargador Tipo 2",
+            "about_role": "Testing Cargador Tipo 2"
+        },
+        {
+            "role_name": "Cargador Tipo 3",
+            "use_company_address": false,
+            "location": {
+                "address_line": "Padre Mier 300, Centro, 64000 Monterrey, N.L., Mexico",
+                "latitude": 25.6685036,
+                "longitude": -100.3137202,
+                "place_id": "ChIJoUDkjJbrYoYRR54VDLYxukY",
+                "formatted_address": "Padre Mier 300, Centro, 64000 Monterrey, N.L., Mexico",
+                "route": "Padre Mier",
+                "neighborhood": "Centro",
+                "locality": "Monterrey",
+                "admin_area_level_1": "Nuevo León",
+                "country": "Mexico",
+                "google_maps_query_link": "https://www.google.com/maps/search/?api=1&query=Padre%20Mier%20300%2C%20Centro%2C%2064000%20Monterrey%2C%20N.L.%2C%20Mexico&query_place_id=ChIJoUDkjJbrYoYRR54VDLYxukY",
+                "google_maps_latlng_link": "https://www.google.com/maps/@?api=1&map_action=map&center=25.6685036,-100.3137202&zoom=16"
+            },
+            "relevant_info": "Testing Data Cargador Tipo 3",
+            "about_role": "Testing Data Cargador Tipo 3"
+        }
+    ],
+    "demographics_groups": [
+        {
+            "minAge": 18,
+            "maxAge": 60,
+            "appliesToAll": false,
+            "vacancyIndexes": [
+                0,
+                1
+            ],
+            "education": "Preparatoria"
+        },
+        {
+            "minAge": 35,
+            "maxAge": 50,
+            "appliesToAll": false,
+            "vacancyIndexes": [
+                2
+            ],
+            "education": "Secundaria"
+        }
+    ],
+    "salary_groups": [
+        {
+            "payType": "Neto",
+            "bank": "BBVA,Citibanamex,Banorte",
+            "frequency": "Quincenal",
+            "notes": "NA",
+            "candidateBankRule": "must_match_pay_bank",
+            "candidateExcludeBanks": [],
+            "appliesToAll": false,
+            "vacancyIndexes": [
+                0
+            ],
+            "amount": 1300
+        },
+        {
+            "payType": "Bruto",
+            "bank": "Banorte",
+            "frequency": "Quincenal",
+            "notes": "NA",
+            "candidateBankRule": "must_match_pay_bank",
+            "candidateExcludeBanks": [],
+            "appliesToAll": false,
+            "vacancyIndexes": [
+                1,
+                2
+            ],
+            "amount": 2000
+        }
+    ],
+    "shift_groups": [
+        {
+            "shift": "Matutino",
+            "includeBreaks": true,
+            "appliesToAll": false,
+            "vacancyIndexes": [
+                0,
+                1
+            ],
+            "breaksNote": "1 dia a semana",
+            "discardIfCannotWorkShift": true
+        },
+        {
+            "shift": "Vespertino",
+            "includeBreaks": true,
+            "appliesToAll": false,
+            "vacancyIndexes": [
+                2
+            ],
+            "breaksNote": "2 dias a la semana",
+            "discardIfCannotWorkShift": false
+        }
+    ],
+    "document_groups": [
+        {
+            "appliesToAll": false,
+            "vacancyIndexes": [
+                1
+            ],
+            "documents": {
+                "ine": "required",
+                "curp": "required",
+                "sat": "required",
+                "imss": "required",
+                "comprobante_domicilio": "required",
+                "comprobante_estudios": "none",
+                "acta_nacimiento": "none",
+                "solicitud_empleo": "none",
+                "cartilla_militar": "none",
+                "antecedentes_penales": "none",
+                "cv": "none",
+                "constancias_laborales": "none",
+                "fotos_infantil": "none",
+                "acta_beneficiario": "none",
+                "cuenta_bancaria": "none"
+            },
+            "discardIfNoDocs": true
+        },
+        {
+            "appliesToAll": false,
+            "vacancyIndexes": [
+                0,
+                2
+            ],
+            "documents": {
+                "ine": "none",
+                "curp": "required",
+                "sat": "required",
+                "imss": "none",
+                "comprobante_domicilio": "none",
+                "comprobante_estudios": "none",
+                "acta_nacimiento": "none",
+                "solicitud_empleo": "none",
+                "cartilla_militar": "none",
+                "antecedentes_penales": "none",
+                "cv": "required",
+                "constancias_laborales": "reminder",
+                "fotos_infantil": "required",
+                "acta_beneficiario": "required",
+                "cuenta_bancaria": "none"
+            },
+            "discardIfNoDocs": true
+        }
+    ],
+    "transport_certs_extras_groups": [
+        {
+            "appliesToAll": true,
+            "vacancyIndexes": [],
+            "transport": {
+                "hasTransport": false,
+                "note": "",
+                "routesNote": ""
+            },
+            "certifications": {
+                "required": false,
+                "discardIfMissing": null,
+                "name": ""
+            },
+            "extras": []
+        }
+    ],
+    "interviews_groups": [
+        {
+            "askFor": "Tomas Cortes",
+            "directions": "Linea 5 CDMX",
+            "transportRoutes": "Linea 5 CDMX",
+            "appliesToAll": false,
+            "vacancyIndexes": [
+                0
+            ]
+        },
+        {
+            "askFor": "Claudio Guardado",
+            "directions": "Linea 10 CDMX",
+            "transportRoutes": "Linea 10 CDMX",
+            "appliesToAll": false,
+            "vacancyIndexes": [
+                1,
+                2
+            ]
+        }
+    ],
+    "candidate_question_flow": {
+        "companyType": "2 - Criterios de Elegibilidad parcial",
+        "general": {
+            "order": [
+                "welcome",
+                "name",
+                "age",
+                "education",
+                "shifts",
+                "certifications_general",
+                "select_role_eligibility"
+            ],
+            "include": {
+                "welcome": true,
+                "name": true,
+                "age": true,
+                "education": true,
+                "shifts": false,
+                "certifications_general": false,
+                "select_role_eligibility": false
+            },
+            "templates": {
+                "welcome": "¡Hola! 👋 Gracias por tu interés. Te haremos unas preguntas rápidas para continuar.",
+                "name": "🧑‍💼 ¿Cuál es tu nombre completo?",
+                "age": "🎂 ¿Cuántos años tienes?",
+                "education": "🎓 ¿Cuál es tu último nivel educativo concluido?",
+                "shifts": "⏰ ¿Puedes trabajar en el turno indicado? Responde Sí o No.",
+                "certifications_general": "✅ ¿Cuentas con la certificación requerida?",
+                "select_role_eligibility": "✅ Confirma si cumples con los criterios de elegibilidad del rol elegido."
+            },
+            "welcomeDraft": "¡Hola! 👋 Gracias por tu interés. Te haremos unas preguntas rápidas para continuar."
+        },
+        "perRole": [
+            {
+                "vacancyIndexes": [
+                    0,
+                    1
+                ],
+                "questions": {
+                    "location": {
+                        "enabled": false,
+                        "template": "📍 ¿En qué colonia y municipio vives?"
+                    },
+                    "experience": {
+                        "enabled": false,
+                        "template": "🛠️ ¿Tienes experiencia previa en el puesto? Cuéntanos brevemente."
+                    },
+                    "references": {
+                        "enabled": false,
+                        "template": "📇 ¿Puedes compartir 1–2 referencias laborales (nombre y teléfono)?"
+                    },
+                    "last12months": {
+                        "enabled": false,
+                        "template": "📅 ¿Has trabajado en los últimos 12 meses? ¿Dónde y cuánto tiempo?"
+                    },
+                    "documents": {
+                        "enabled": true,
+                        "template": "📄 ¿Cuentas con INE, CURP, Constancia de situación fiscal (SAT), Número de Seguro Social (IMSS), Comprobante de domicilio, CURP, Constancia de situación fiscal (SAT), CV, Fotos tamaño infantil, Acta de beneficiario?"
+                    },
+                    "bank": {
+                        "enabled": true,
+                        "template": "🏦 ¿Tienes cuenta en BBVA?"
+                    }
+                }
+            },
+            {
+                "vacancyIndexes": [
+                    2
+                ],
+                "questions": {
+                    "location": {
+                        "enabled": true,
+                        "template": "📍 ¿En qué colonia y municipio vives?"
+                    },
+                    "experience": {
+                        "enabled": true,
+                        "template": "🛠️ ¿Tienes experiencia previa en el puesto? Cuéntanos brevemente."
+                    },
+                    "references": {
+                        "enabled": true,
+                        "template": "📇 ¿Puedes compartir 1–2 referencias laborales (nombre y teléfono)?"
+                    },
+                    "last12months": {
+                        "enabled": false,
+                        "template": "📅 ¿Has trabajado en los últimos 12 meses? ¿Dónde y cuánto tiempo?"
+                    },
+                    "documents": {
+                        "enabled": true,
+                        "template": "📄 ¿Cuentas con INE, CURP, Constancia de situación fiscal (SAT), Número de Seguro Social (IMSS), Comprobante de domicilio, CURP, Constancia de situación fiscal (SAT), CV, Fotos tamaño infantil, Acta de beneficiario?"
+                    },
+                    "bank": {
+                        "enabled": true,
+                        "template": "🏦 ¿Tienes cuenta en BBVA?"
+                    }
+                }
+            }
+        ],
+        "bookingTemplate": "🗓️ Para agendar tu entrevista, por favor elige un horario disponible respondiendo con el número de la opción."
+    }
+}
