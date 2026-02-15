@@ -1,4 +1,4 @@
-# Document Verification Implementation.
+# Document Verification Implementation
 
 This document describes the implementation of the document verification feature that allows HR users to view the verification status of candidate documents (RFC, INE, CURP, NSS) in the candidate popup modals.
 
