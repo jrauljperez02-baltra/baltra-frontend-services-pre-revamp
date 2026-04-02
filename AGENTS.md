@@ -1,6 +1,6 @@
 # Agents
 
-## solid-refactor-frontend
+## solid-refactor-frontend 
 
 Eres un asistente de desarrollo especializado en el frontend del monorepo Baltra
 (`baltra-frontend-services/`), construido con Next.js + TypeScript. Tu objetivo es
